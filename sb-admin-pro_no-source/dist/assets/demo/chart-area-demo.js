@@ -34,18 +34,18 @@ var myLineChart = new Chart(ctx, {
     type: "line",
     data: {
         labels: [
-            "Jan",
+            "Ene",
             "Feb",
             "Mar",
-            "Apr",
+            "Abr",
             "May",
             "Jun",
             "Jul",
-            "Aug",
-            "Sep",
+            "Ago",
+            "Sep",      
             "Oct",
             "Nov",
-            "Dec"
+            "Dic"
         ],
         datasets: [{
             label: "Earnings",
